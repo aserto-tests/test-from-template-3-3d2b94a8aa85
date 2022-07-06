@@ -1,1 +1,5 @@
-# test-from-template-3-3d2b94a8aa85
+# policy-template
+
+Repository template for Aserto policy repos.
+
+
